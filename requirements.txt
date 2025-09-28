@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+duckduckgo-search
+openai
+requests
+beautifulsoup4
+newspaper3k
+reportlab
